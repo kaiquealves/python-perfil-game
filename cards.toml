@@ -1,0 +1,152 @@
+[[cards]]
+id = 1
+category = "Person"
+correct_answers = ["superman", "super man", "clark kent"]
+tips = ["I'm a superhero!",
+         "I belongs to DC Universe.",
+         "I'm extraterrestrial.",
+         "My name was inspired by an Friedrich Nietzsche's statement.",
+         "Just few people knows my real identity.",
+         "I've a secret identity.",
+         "#lost_turn",
+         "My original name is Kal-El.",
+         "Some of my abilities include incredible strength, bullet-proof skin and x-ray vision.",
+         "My first appearance was in 1938.",
+         "I was introduced to world in Action Comics magazine.",
+         "My archenemy is a CEO of a large Corporation.",
+         "I'm a journalist.",
+         "Kirk Alyn became the first actor to portray me on screen.",
+         "My first adaptation beyond comic books was in a radio show.",
+         "I've been played in movies by Henry Cavill.",
+         "About electronic games, my debut was in 1979 for the Atari 2600.",
+         "#penalty",
+         "I have a weakness.",
+         "I wear a red cape."]
+
+[[cards]]
+id = 2
+category = "Year"
+correct_answers = ["1985"]
+tips = ["Rock in Rio first edition was realized",
+        "Tancredo Neves is ellected as Brazil's republic president and died in this same year.",
+        "Jaspion is launched in Japan.",
+        "Ayrton Senna wins his first Gran Prix in Formula 1.",
+        "Titanic debris was found in Atlantic Ocean.",
+        "The game Super Mario Bros is launched.",
+        "Lewis Hamilton borns in Stevenage.",
+        "The most famoust portuguese soccer player borns in February 5th.",
+        "International Physicians for the Prevention of Nuclear War wis the Nobel Prize of Peace.",
+        "The border between Gibraltar and Spain reopens for the first time since Francisco Franco closed it in 1969.",
+        "A 8.0 magnitude earthquake strucks Mexico City.",
+        "Ronald Reagan serves as United States president.",
+        "Japan Airlines Flight 123 crashes in Japan, killing 520 people (the worst single-aircraft disaster in history).",
+        "Wubbo Ockels became the first Dutch citizen in space.",
+        "#bonus",
+        "Microsoft Corporation releases the first international release of Windows 1.0.",
+        "DNA is used for the first time to solve a criminal case.",
+        "World population is estimated as 4,8 billion people.",
+        "#lost_turn",
+        "The Space Shuttle Atlantis makes its maiden flight."]
+
+[[cards]]
+id = 3
+category = "Place"
+correct_answers = ["brazil", "brasil"]
+tips = ["I have 4 different time zones.",
+        "I have the greatest biodiversity in the world.",
+        "#lost_turn",
+        "The largest japanese community outside of Japan is here.",
+        "The highest point of my territory is almost 3 thousand meters above the sea line.",
+        "#penalty",
+        "I am the 7th most populated country of the world.",
+        "Soccer is the most popular sport around here.",
+        "The total area of my territory is more than 3.2 million square miles.",
+        "I remained as an Portuguese colony until 1808.",
+        "My territory is 206 times larger than the territory of Switzeraland.",
+        "My capital is located near 15° South and 47° West",
+        "I'm one of the biggest food producer in the world.",
+        "I am the major United States ally that don't belong to NATO.",
+        "One of my uninhabited islands has a huge snake population, estimated by researchers to be around 5 snakes per square meter.",
+        "#bonus",
+        "I am the third largest beer drinker in the world.",
+        "Almost 90% of my population is Christianity.",
+        "For the last 150 years, I remains as the largest coffee producer of the world.",
+        "One of my cities was officialy designed as my capital for only three days."]
+
+[[cards]]
+id = 4
+category = "Object"
+correct_answers = ["cake", "cakes"]
+tips = ["#lost_turn",
+        "In US, my national day is celebrated on November 26th.",
+        "I can have fruits in my composition.",
+        "I can have mini versions of myself, that fits on cups or mugs.",
+        "I can have many different shapes, sizes or flavours.",
+        "One of my largest version was made for Las Vegas centennial birthday and wheighed over ten thousand pounds.",
+        "I can be covered with whipped cream, dulce de leche, marshmallow, puff pastry or another delicacy.",
+        "I am an important part of the celebrations.",
+        "Historians believes that I have existed since the ancient Egypt.",
+        "One of my most famous version is called Red Velvet.",
+        "Wheat flour and milk are indispensable for my manufacture.",
+        "I'm usually made with sugar, but there are also savory options, like the one made with meat, for example.",
+        "I am produced by confectioners and bakers.",
+        "Pirates Fantasy was my most expensive version, worth about $35 million.",
+        "I'm one of the most searched recipes on Google.",
+        "#penalty",
+        "I'm a flour-based food, usually sweet and baked in the oven.",
+        "In the old days, some women believed that keeping me under their pillow helped attract a handsome husband..",
+        "I was very present at Queen Victoria's reign.",
+        "I can be used to create sculpture representing almost anything in the world."]
+
+ [[cards]]
+ id = 5
+ category = "Place"
+ correct_answers = ["eiffell tower", "eifel tower", "eiffel tower", "eifell tower"]
+ tips = ["My name origins from the engineer who designed and oversaw my construction.", 
+        "I was built for the 1889 World's Fair in Paris to celebrate the 100th anniversary of the French Revolution.",
+        "I am over 300 meters tall.",
+        "From my opening until 1930, I was the tallest man-made structure in the world.",
+        "I was saved from demolition because I was considered useful for communication purposes.",
+        "I am one of the most recognizable landmarks in the world.",
+        "It is estimated that more than 250 million people have visited me since I was built.",
+        "While large and imposing, I was originally intended to be a temporary structure.",
+        "It took about two years to build the tower, with construction starting in 1887 and finished in 1889.",
+        "#bonus",
+        "I appear in many films, including 'The Bourne Identity'.",
+        "It takes over 54 tons of paint to paint me completely.",
+        "I was closed to visitors for several months in 2020 due to the COVID-19 pandemic, but has since reopened with safety measures in place.",
+        "#lost_turn",
+        "I have a few copies and imitations built all over the world, including in Tokyo, Las Vegas and Hangzhou, China.",
+        "The first radio broadcast in history took place here in 1898.",
+        "I have special lighting that makes me especially beautiful at night.",
+        "#penalty",
+        "During my build, I've been the target of a lot of criticism, with many people calling it an eyesore and a waste of money.",
+        "I am located in a country in Europe.",
+        "I sways about 6 in the wind."]
+
+# [[cards]]
+# id = incremental number identification
+# category = Could be "Object", "Place", "Year" or "Person"
+# correct_answers = 
+# tips = ["", 
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        "",
+#        ""]
+# Action tips must be "#lost_turn","#penalty","#bonus". The number of points for penalty or bonus is random from 1 to 5.
